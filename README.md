@@ -1,6 +1,6 @@
 # ATS Evaluation Visualization Dashboard
 
-![alt text](<ATS Visual Picture.png>)
+
 ![alt text](./ATS VISUAL PICTURE.PNG)
 
 
