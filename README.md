@@ -1,14 +1,8 @@
 # ATS Evaluation Visualization Dashboard
 
-<<<<<<< HEAD
 ![Alt text for the image](./ATS VISUAL PICTURE.PNG)
-=======
-![alt text](ATS VISUAL PICTURE.PNG)
 
->>>>>>> 992fc3f4e1fd24adbeef81431b7ee1043a308e25
-
-
-## Excel Visualization Dashboard
+## Excel Visualization Dashboard  
 
 ## Table of Contents
 - [Overview](#overview)
