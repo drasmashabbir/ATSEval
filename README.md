@@ -1,6 +1,6 @@
 # ATS Evaluation Visualization Dashboard
 
-![IMG](ATS_TEMPLATE.PNG)
+!(ATS_TEMPLATE.PNG)
 
 ## Excel Visualization Dashboard  
 
