@@ -1,6 +1,6 @@
 # ATS Evaluation Visualization Dashboard
 
-https://github.com/drasmashabbir/ATSEval/blob/main/ATS_TEMPLATE.png
+ATS_TEMPLATE.png
 
 ## Excel Visualization Dashboard  
 
